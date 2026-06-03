@@ -51,7 +51,7 @@ I build end-to-end web applications across the JavaScript and Python stack, with
 | [**NovChat**](https://github.com/Gil-Ano/chat-app) | Real-time chat with rooms, DMs, typing indicators, read receipts, and file sharing | React · Node.js · Socket.io · MongoDB |
 | [**NovaMart**](https://github.com/Gil-Ano/ecommerce-app) | Full-stack e-commerce platform with admin panel and Groq AI product descriptions | React · Node.js · MongoDB · Groq |
 | [**Get Hired**](https://github.com/Gil-Ano/job-portal) | AI-powered job portal with TF-IDF resume matching and two-sided employer/jobseeker flows | React · FastAPI · PostgreSQL · scikit-learn |
-| [**GirlyGeek**](https://github.com/Gil-Ano/learning-platform) | Online learning platform with Redis caching, Stripe payments, and AI quiz generation | React · Node.js · TypeScript · PostgreSQL · Redis |
+| [**GirlyGeek**](https://github.com/Gil-Ano/online-learning-platform) | Online learning platform with Redis caching, Stripe payments, and AI quiz generation | React · Node.js · TypeScript · PostgreSQL · Redis |
 
 ---
 
