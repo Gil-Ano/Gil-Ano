@@ -2,7 +2,7 @@
 
 Full stack software engineer based in Harare, Zimbabwe 🇿🇼 — open to remote roles worldwide.
 
-I build end-to-end web applications across the JavaScript and Python stack, with a focus on AI integration, real-time systems, and clean architecture. I've independently designed, built, and deployed 5 production-grade applications in the past 3 months.
+I build end-to-end web applications across the JavaScript and Python stack, with a focus on AI integration, real-time systems, and clean architecture. I've independently designed, built, and deployed 5 production-grade applications.
 
 ---
 
@@ -58,7 +58,7 @@ I build end-to-end web applications across the JavaScript and Python stack, with
 ## 📫 Get in Touch
 
 [![Email](https://img.shields.io/badge/Email-gilmushure1102@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:gilmushure1102@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gil-mushure)
 [![GitHub](https://img.shields.io/badge/GitHub-Gil--Ano-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Gil-Ano)
 
 ---
